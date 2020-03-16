@@ -2,7 +2,7 @@ Redis 3.0 源码注释
 ============================
 
 本项目是注释版的 Redis 3.0 源码，
-原始代码来自： https://github.com/antirez/redis 。
+来自： https://github.com/antirez/redis 。
 
 这份注释是我在创作新版《Redis 设计与实现》期间，
 为了了解 Redis 的内部实现而制作的，
